@@ -1,4 +1,4 @@
-UPDATED !! (temporary fix) thanks to [@platipus9999](https://github.com/platipus9999)
+UPDATED !! ( permanent fix) thanks to [@calaafdhoon](https://github.com/platipus9999)
 
 `v2.py` has automatic captcha solver
 
